@@ -2,8 +2,8 @@
 require File.expand_path('../lib/fulcrum/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["Chris Hall"]
-  gem.email         = ["chris@spatialnetworks.com"]
+  gem.authors       = ["Chris Hall", "Zac McCormick", "Coleman McCormick", "Jonathan Baker", "Kyle Tolle"]
+  gem.email         = ["support@fulcrumapp.com"]
   gem.description   = %q{Fulcrum API Gem}
   gem.summary       = %q{Fulcrum API Gem}
   gem.homepage      = "http://github.com/spatialnetworks/fulcrum-ruby"

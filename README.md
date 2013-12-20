@@ -126,13 +126,13 @@ Fulcrum::ClassificationSet.update(id, classification_set)
 Fulcrum::ClassificationSet.delete(id)
 ```
 
-## Members
+## Users
 
 ```ruby
-Fulcrum::Member.all(opts)
+Fulcrum::User.all(opts)
 # opts = { 'page' => page_number }
 
-Fulcrum::Member.find(id)
+Fulcrum::User.find(id)
 ```
 
 ## Extra Reading
